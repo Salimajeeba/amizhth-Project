@@ -1,0 +1,35 @@
+h1.wandure_2 {
+    position: relative;
+    left: 210px;
+    top: 3px;
+    font-size: 24px;
+}
+img.travel_2 {
+    position: relative;
+    left: 148px;
+    top: -72px;
+    width: 67px;
+}
+.Content_2 {
+    position: absolute;
+    top: 32px;
+    right: 339px;
+}
+    
+button.Create {
+        position: absolute;
+        height: 31px;
+        background-color: rgb(108, 180, 255);
+        color: white;
+        border: white;
+        top: 26px;
+        left: 1143px;
+}
+.Rare {
+    position: absolute;
+    left: 171px;
+    top: 175px;
+}
+h1.Rare_1 {
+    font-size: 58px;
+}
