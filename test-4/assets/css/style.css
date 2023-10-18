@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "pagging";
+}
+.home {
+    background-color: aquamarine;
+    height: 100vh;
+    width: 100vw;
+}
+.content-2 {
+    height: 18cm;
+    width: 16cm;
+    background-color: white;
+    position: absolute;
+    top: 55px;
+    left: 19cm;
+}
+form {
+    height: 551px;
+    width: 100%;
+    margin-top: 48px;
+}
+.form-area {
+    padding: 38px 0px 0px 38px;
+}
+input[type="text"] {
+    height: 39pt;
+    width: 14cm;
+    text-indent: 36px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.names input[type="text"] {
+    width: 98%;
+}
+.names {
+    display: inline-block;
+    width: 265px;
+}
+.email,.phone,.names{
+    position: relative;
+} 
+input[type="text"] {
+    height: 39pt;
+    margin-bottom: 11px;
+    width: 14cm;
+}
+textarea {
+    height: 190px;
+    width: 100%;
+    font-size: 15px;
+    font-family: sans-serif;
+    padding: 11px 0px 0px 13px
+}
+.text-area {
+    width: 531px;
+}
+button {
+    width: 531px;
+    margin-top: 14px;
+    height: 47px;
+    padding-bottom: 5px;
+}
+form i {
+    position: absolute;
+    top: 16px;
+    left: 20px;
+    font-size: 22px;
+    color: dimgrey;
+}
+.icon {
+    font-size: 36px;
+    position: absolute;
+    top: 660px;
+    left: 162px;
+}
+.input.box .fa.fa-user {
+    position: absolute;
+    top: 30px;
+    left: 16px;
+    font-size: 24px;
+    color: grey;
+}
+/* .content-1 {
+    position: absolute;
+    width: 403px;
+    top: 394px;
+    left: 212px;
+} */
+.icon {
+    font-size: 36px;
+    position: absolute;
+    top: 184px;
+    left: 0px;
+}
+.icon {
+    font-size: 36px;
+    position: absolute;
+    top: 155px;
+    left: 0px;
+}
+.content-1 {
+    position: absolute;
+    width: 403px;
+    top: 507px; 
+    left: 212px;
+}
+img.token {
+    width: 68px;
+    position: absolute;
+    top: -5px;
+    left: -57px;
+}
+.icon {
+    font-size: 36px;
+    position: absolute;
+    top: 155px;
+    left: 0px;
+}
+.icon i {
+    /* margin-left: 22px; */
+    background-color: darkgrey;
+    border-radius: 100%;
+    /* background: 202px 76px; */
+    height: 57px;
+    width: 58px;
+    text-align: center;
+    padding-top: 11px;
+}
