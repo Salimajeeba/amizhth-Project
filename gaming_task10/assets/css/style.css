@@ -82,3 +82,12 @@ img {
     left: -9px;
     top: -60px;
 }
+.description h1 {
+    color: #f5f5f5;
+}
+.description p {
+    color: #fdfdfd;
+    font-size: 20px;
+    width: 50%;
+    line-height: 1.5;
+}
